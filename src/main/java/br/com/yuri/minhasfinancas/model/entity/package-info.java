@@ -1,0 +1,1 @@
+package br.com.yuri.minhasfinancas.model.entity;
