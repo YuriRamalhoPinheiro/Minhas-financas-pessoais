@@ -1,2 +1,2 @@
 # minhasFinancasPessoais
-Projeto para gerenciamento de finanças pessoais do curso de SpringBoot e React
+Projeto do curso de SpringBoot e React da UDEMY, para criar uma API JAVA e um aplicativo cliente com REACT, para gerenciamento de finanças pessoais. 
